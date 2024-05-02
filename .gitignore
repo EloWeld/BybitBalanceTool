@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+src/
+!src/unknown_token.png
+!src/refresh.png
+!src/USDT.png
 
 # Distribution / packaging
 .Python
